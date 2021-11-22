@@ -1,0 +1,5 @@
+print('Hello world')
+name = input('whats your name? ')
+print('my name is fastbot1279')
+fav = input('whats your fave color? ')
+print('ohh same i like ' + fav + ' '+ name )
